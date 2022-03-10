@@ -2,3 +2,5 @@ sambar
 satham
 appalam
 vadai
+chappathi
+pizza
