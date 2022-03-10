@@ -4,3 +4,6 @@ appalam
 vadai
 chappathi
 pizza
+italian items
+mexican tacos
+chinese fried rice
