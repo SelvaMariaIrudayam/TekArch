@@ -1,0 +1,5 @@
+we made dosas with dosa batter.There are many varities of dosas 
+available.They are
+*)plain dosa
+*)Ghee Doasa
+*)Masala Dosa
